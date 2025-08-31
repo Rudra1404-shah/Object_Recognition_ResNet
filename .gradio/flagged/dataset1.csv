@@ -1,0 +1,2 @@
+Upload an image,output,timestamp
+.gradio\flagged\Upload an image\70bc56eba980b5470a31\download 2.jpg,"{""label"": ""dog"", ""confidences"": [{""label"": ""dog"", ""confidence"": 1.0}, {""label"": ""airplane"", ""confidence"": 0.0}, {""label"": ""automobile"", ""confidence"": 0.0}]}",2025-09-01 01:12:58.360354
